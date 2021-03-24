@@ -1,3 +1,5 @@
+![Archived](https://img.shields.io/badge/Current_Status-archived-blue?style=flat)
+
 ![Build Status](https://travis-ci.org/linagora/fpm-debian-jessie.svg?branch=master)
 
 # fpm-debian-jessie
